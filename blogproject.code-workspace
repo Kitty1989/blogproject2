@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../stylescss"
+		}
+	],
+	"settings": {
+		"git.ignoreLimitWarning": true
+	}
+}
